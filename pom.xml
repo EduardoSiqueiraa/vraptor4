@@ -22,9 +22,9 @@
 
 	<developers>
 		<developer>
-			<id>Turini</id>
-			<name>Rodrigo Turini</name>
-			<email>rdrg.turini@gmail.com</email>
+			<id>mariofts</id>
+			<name>Mario Amaral</name>
+			<email>mario.fts@gmail.com</email>
 			<organization>Caelum</organization>
 			<organizationUrl>http://www.caelum.com.br</organizationUrl>
 			<roles>
@@ -33,11 +33,9 @@
 			<timezone>-3</timezone>
 		</developer>
 		<developer>
-			<id>mariofts</id>
-			<name>Mario Amaral</name>
-			<email>mario.fts@gmail.com</email>
-			<organization>Caelum</organization>
-			<organizationUrl>http://www.caelum.com.br</organizationUrl>
+			<id>Siqueira</id>
+			<name>Eduardo Siqueira</name>
+			<email>eduardosiqueira26@gmail@gmail.com</email>
 			<roles>
 				<role>developer</role>
 			</roles>
